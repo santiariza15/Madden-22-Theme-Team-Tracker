@@ -6,12 +6,16 @@ Madden 22 Theme Team Tracker you can generate spreadsheets to track every theme 
 
 Please install the required dependencies
 
+1. Download and install [Python](https://www.python.org/downloads/release/python-397/) on your device
+2. Open your Command Prompt and type:
+
 ```bash
 pip install -r requirements.txt
 ```
 
 ## Usage
 
+Open you Command Prompt and type:
 ```bash
 python themeteams.py
 ```
