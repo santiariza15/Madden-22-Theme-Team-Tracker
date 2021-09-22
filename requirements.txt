@@ -1,0 +1,4 @@
+requests
+beautifulsoup
+xlswriter
+tqdm
